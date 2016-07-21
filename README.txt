@@ -1,4 +1,1 @@
-Hello , Git
-Hello, again
-
-EDITING THIS
+SHARING REMOTLY IS FUN AND EASY
